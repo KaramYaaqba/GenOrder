@@ -1,0 +1,6 @@
+        
+        public enum EndpointConfiguration
+        {
+            
+            eBayAPI,
+        }
